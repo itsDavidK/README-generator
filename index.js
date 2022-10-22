@@ -27,7 +27,7 @@ function init() {
         {
             type: "input",
             message: "What are the installation instructions?",
-            name: "intructions"
+            name: "instructions"
         },
         {
             type: "input",
