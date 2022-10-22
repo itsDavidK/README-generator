@@ -10,3 +10,5 @@ Please make sure to update tests as appropriate.
 ## Screenshots
 <img src="./screenshot.png">
 
+## Video Showcase
+https://www.youtube.com/watch?v=EramTnlWmhY
