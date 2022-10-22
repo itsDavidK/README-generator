@@ -3,7 +3,7 @@
 ![license badge](undefined)
 ## Description
     
-A man eats a lot of tacos, as the user wathes the page.
+The user enters the page and watches a man eat a taco for an eternity.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,14 +16,14 @@ A man eats a lot of tacos, as the user wathes the page.
 undefined
 ## Usage
     
-To watch a man eat tacos.
+No real purpose.
 ## License
 This program is covered under the [MIT](undefined) license.
     
 ## Contributions
     
-Bob Jackson, BillyBobJoe, and Samantha Charles.
+BillyBobJoe, Bob Jackson, Joe Burrow.
 ## Tests
-Unknown.
+We gave the man infinite tacos.
 ## Questions
-You can also message me on GitHub at [itsDavidK](https://github.com/itsDavidK) or via email at TacoEater@gmail.com
+You can also message me on GitHub at [itsDavidK](https://github.com/itsDavidK) or via email at Tacoeater@gmail.com
