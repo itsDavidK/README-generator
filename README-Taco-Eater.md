@@ -3,7 +3,7 @@
 ![license badge](undefined)
 ## Description
     
-A man eats a lot of tacos, as the user wathes the page.
+A man eats a lot of tacos, as the user watches the page.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
