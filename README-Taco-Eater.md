@@ -3,7 +3,11 @@
 ![license badge](undefined)
 ## Description
     
+<<<<<<< HEAD
 The user enters the page and watches a man eat a taco for an eternity.
+=======
+A man eats a lot of tacos, as the user watches the page.
+>>>>>>> aec01a499b2d35a8281b7773634832bc279ed3a7
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
