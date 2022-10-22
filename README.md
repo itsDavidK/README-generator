@@ -10,5 +10,3 @@ Please make sure to update tests as appropriate.
 ##Screenshots
 <img src="./screenshot.png">
 
-## Link To The Website
-https://itsdavidk.github.io/work-scheduler
